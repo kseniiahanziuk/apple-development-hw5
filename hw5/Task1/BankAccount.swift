@@ -56,4 +56,3 @@ final class BankAccount {
         return transactionHistory
     }
 }
-

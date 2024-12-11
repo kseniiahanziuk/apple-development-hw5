@@ -85,4 +85,3 @@ final class BankAccountTests: XCTestCase {
         XCTAssertEqual(transactions[2].type, .credit)
     }
 }
-
