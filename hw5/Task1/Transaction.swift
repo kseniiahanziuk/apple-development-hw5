@@ -17,3 +17,4 @@ class Transaction {
         self.type = type
     }
 }
+
